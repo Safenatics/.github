@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.safenatics.com"><img src="logo.png" alt="Safenatics" width="200"></a>
+  <a href="https://www.safenatics.com"><img src="./profile/logo.png" alt="Safenatics" width="200"></a>
   <br>
   Safenatics
   <br>
