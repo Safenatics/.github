@@ -79,6 +79,6 @@ Our core principles guide everything we do:
 Have questions or need assistance? Reach out to us!
 
 - *Website*: [https://www.safenatics.com](https://www.safenatics.com)
-- *Discord*: [Join our Discord](https://discord.gg/cTFkaVERtw)
-- *LinkedIn*: [Connect with us](https://www.linkedin.com/company/safenatics)
-- *Email*: [contact@safenatics.com](mailto:contactus@safenatics.com)
+- *Discord*: [Join our Discord!!!](https://discord.gg/cTFkaVERtw)
+- *LinkedIn*: [Connect with us!](https://www.linkedin.com/company/safenatics)
+- *Email*: [contactus@safenatics.com](mailto:contactus@safenatics.com)
