@@ -20,12 +20,12 @@
 </p>
 
 <p align="center">
-  <a href="#mission">Mission</a> •
-  <a href="#services">Services</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#principles">Principles</a> •
-  <a href="#contact">Contact</a> •
-  <a href="#license">License</a>
+  <a href="#mission">MISSION</a>  •
+  <a href="#services">SERVICES</a>  •
+  <a href="#projects">PROJECTS</a>  •
+  <a href="#principles">PRINCIPLES</a>  •
+  <a href="#contact">CONTACTS</a>  •
+  <a href="#license">LICENSE</a>
 </p>
 
 
