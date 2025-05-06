@@ -9,14 +9,9 @@
 <h4 align="center">Protecting Your Digital World with Cutting-Edge Cybersecurity Solutions</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/safenatics">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"
-         alt="LinkedIn">
-  </a>
-  <a href="https://discord.gg/nrQcmPRKuE"><img src="https://img.shields.io/discord/your-discord-server-id?label=Discord&logo=discord&color=7289DA"></a>
-  <a href="https://www.safenatics.com">
-      <img src="https://img.shields.io/badge/Visit-Website-green?style=flat&logo=google-chrome">
-  </a>
+  <a href="https://www.linkedin.com/company/safenatics"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://discord.gg/XyTqrpHG9k"><img src="https://img.shields.io/discord/your-discord-server-id?label=Discord&logo=discord&color=7289DA"></a>
+  <a href="https://www.safenatics.com"><img src="https://img.shields.io/badge/Visit-Website-green?style=flat&logo=google-chrome"></a>
 </p>
 
 <p align="center">
