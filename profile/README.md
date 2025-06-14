@@ -59,9 +59,9 @@ We offer a range of services tailored to safeguard your infrastructure:
 
 Our team has created some amazing tools and frameworks, including:
 
-- *NLP & Web Fuzzer*: A tool to simulate various inputs (text/URLs) to test the robustness of web apps & NLP systems against edge cases.
+- *NLP & Web Fuzzer*: Tool to simulate various inputs (text/URLs) to test the robustness of web apps & NLP systems against edge cases.
 - *IDS/Firewall*: Frameworks for real-time threat detection & network traffic filtering to protect your systems from unauthorized access.
-- *SIEM Solutions*: Security Information & Event Management systems for monitoring, analyzing, & detecting security threats in real-time.
+- *SIEM Solutions*: Security Information & Event Management systems for monitoring, analyzing, & detecting many threats in real-time.
 
 ---
 
