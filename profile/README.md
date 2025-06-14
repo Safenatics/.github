@@ -1,28 +1,35 @@
 <h1 align="center">
+  <a href="https://www.safenatics.com">
+    <img src="logo.png" alt="Safenatics Logo" width="200">
+  </a>
   <br>
-  <a href="https://www.safenatics.com"><img src="logo.png" alt="Safenatics" width="200"></a>
-  <br>
-  Safenatics
-  <br>
+  <strong>Safenatics</strong>
 </h1>
 
-<h4 align="center">Protecting Your Digital World with Cutting-Edge Cybersecurity Solutions</h4>
+<h4 align="center" style="margin-top: -10px;">
+  Protecting Your Digital World with Cutting-Edge Cybersecurity Solutions
+</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/safenatics"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://discord.gg/XyTqrpHG9k"><img src="https://img.shields.io/discord/your-discord-server-id?label=Discord&logo=discord&color=7289DA"></a>
-  <a href="https://www.safenatics.com"><img src="https://img.shields.io/badge/Visit-Website-green?style=flat&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/company/safenatics">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/safenatics/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.safenatics.com">
+    <img src="https://img.shields.io/badge/Visit-Website-green?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
 </p>
 
 <p align="center">
-  <a href="#mission">MISSION</a>  •
-  <a href="#services">SERVICES</a>  •
-  <a href="#projects">PROJECTS</a>  •
-  <a href="#principles">PRINCIPLES</a>  •
-  <a href="#contact">CONTACTS</a>  •
+  <a href="#mission">MISSION</a> •
+  <a href="#services">SERVICES</a> •
+  <a href="#projects">PROJECTS</a> •
+  <a href="#principles">PRINCIPLES</a> •
+  <a href="#contact">CONTACTS</a> •
   <a href="#license">LICENSE</a>
 </p>
-
 
 ## Mission
 
@@ -74,6 +81,8 @@ Our core principles guide everything we do:
 Have questions or need assistance? Reach out to us!
 
 - *Website*: [https://www.safenatics.com](https://www.safenatics.com)
-- *Discord*: [Join our Discord!!!](https://discord.gg/cTFkaVERtw)
+- *Instagram*: [Follow us on Instagram](https://www.instagram.com/safenatics/)
 - *LinkedIn*: [Connect with us!](https://www.linkedin.com/company/safenatics)
 - *Email*: [contactus@safenatics.com](mailto:contactus@safenatics.com)
+
+---
